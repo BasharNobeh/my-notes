@@ -9,7 +9,7 @@ I'm **Bashar Nobeh** . A **21** years old **Software Engineer** thatloves coding
 tools using it and I think that I have great knowledge about OOP and other programming models.
 
 ## **What is a good deveploper mindset**
-![image](2021-software-development-salary-trends.png)
+![image](https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png)
 
 Softwares are made to help people and when a software conceive the purpose of making it then its calles a good software.
 Its not all about how it works but the software design is as important as main aim of it and that's why every programmer is a designer too.
@@ -30,8 +30,7 @@ and develop your skills in life and coding . one of those skills is explainning 
 >>- **Remember why you are doing something**
 >>- **Remember that everyone needs help. High in!** 
 >>- **Don't forget the fun. Don't forget the playfulness!**
->>
->>
+
 
 
 
